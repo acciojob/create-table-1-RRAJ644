@@ -1,4 +1,5 @@
 function insert_Row() {
+  // Get the table element
   let table = document.querySelector('#sampleTable');
   
   // Create a new row and define its content
